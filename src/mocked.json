@@ -1,0 +1,161 @@
+{
+    "articles": [
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 1",
+        "description": "This is the description of Article 1.",
+        "author": "Author Name 1",
+        "likes": 100,
+        "comments": 20,
+        "id": 1
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 2",
+        "description": "This is the description of Article 2.",
+        "author": "Author Name 2",
+        "likes": 150,
+        "comments": 30,
+        "id": 2
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 3",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 3",
+        "likes": 200,
+        "comments": 40,
+        "id": 3
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 4",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 4",
+        "likes": 200,
+        "comments": 40,
+        "id": 4
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 5",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 5",
+        "likes": 200,
+        "comments": 40,
+        "id": 5
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 6",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 6",
+        "likes": 200,
+        "comments": 40,
+        "id": 6
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 7",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 7",
+        "likes": 200,
+        "comments": 40,
+        "id": 7
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 8",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 8",
+        "likes": 200,
+        "comments": 40,
+        "id": 8
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 9",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 9",
+        "likes": 200,
+        "comments": 40,
+        "id": 9
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 10",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 10",
+        "likes": 200,
+        "comments": 40,
+        "id": 10
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 11",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 11",
+        "likes": 200,
+        "comments": 40,
+        "id": 11
+      },
+      {
+        "imgUrls": [
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg",
+          "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+        ],
+        "title": "Article Title 12",
+        "description": "This is the description of Article 3.",
+        "author": "Author Name 12",
+        "likes": 200,
+        "comments": 40,
+        "id": 12
+      }
+    ]
+  }
+  
